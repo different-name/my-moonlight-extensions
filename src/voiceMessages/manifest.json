@@ -1,0 +1,15 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "voiceMessages",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "Voice Messages",
+    "tagline": "Allows you to send voice messages",
+    "description": "Allows you to send voice messages like on mobile. To do so, right click the upload button and click Send Voice Message",
+    "authors": [
+      "different-name"
+    ],
+    "source": "https://github.com/different-name/my-moonlight-extensions/"
+  }
+}
